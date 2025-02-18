@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Kenneth!
+![Banner](https://github.com/KennethRomeroLopez/KennethRomeroLopez/blob/main/my_header.png?raw=true)
 
 ### 🌱 Junior Programmer | Translator
 

@@ -10,7 +10,7 @@
 ## :point_up: **About me**
 - 💻 Discovering a new passion, programming
 - 📚 Languages & literature enthusiast
-- 🎯 Looking for oportunities to grow as a programmer
+- 🎯 Looking for opportunities to grow as a programmer
 - :joystick: Videogame lover
 
 ---

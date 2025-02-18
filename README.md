@@ -1,4 +1,4 @@
-![Banner](https://github.com/KennethRomeroLopez/KennethRomeroLopez/blob/main/my_header.png?raw=true)
+![Banner](https://github.com/KennethRomeroLopez/KennethRomeroLopez/blob/main/my_header_gh.png?raw=true)
 
 ### 🌱 Junior Programmer | Translator
 

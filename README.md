@@ -44,14 +44,17 @@
 ---
 
 ## 📁 **Projects**
-🔹 Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/proyecto_final.git)
+- 🔹 Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/proyecto_final.git)
 
-💻 A web app that allows users to save their films and series as favorites or watched 
+- 💻 A web app that allows users to save their films and series as favorites or watched 
 and generate metrics on the time spent watching content. 
-🛠️ Technologies used: Python, HTML, CSS, SQLite, SQLAlchemy  
+- 🛠️ Technologies used: Python, HTML, CSS, SQLite, SQLAlchemy  
 
 
 ---
 
-*Tot està per fer i tot és possible.* (Everything is yet to be done and everything is possible.) Miquel Martí i Pol  
+*Tot està per fer i tot és possible.* (Everything is yet to be done and everything is possible.) 
+<br>
+Miquel Martí i Pol
+
 Thank you for your visit 😊

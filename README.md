@@ -2,7 +2,7 @@
 
 ### 🌱 Junior Programmer | Translator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://(https://www.linkedin.com/in/kenneth-romero-l%C3%B3pez-50670489/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://https://www.linkedin.com/in/kenneth-romero-l%C3%B3pez-50670489/) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square)](mailto:krl2@hotmail.com)
 
 ---

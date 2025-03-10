@@ -35,8 +35,8 @@
 ---
 
 ## 📖 Currently learning
-- ✏️ AI Specialization (Tokio School)
-- ✏️ 100 Days Of Code: The Complete Python Pro Bootcamp (Udemy)
+- ✏️ AI Specialization - Tokio School
+- ✏️ 100 Days Of Code: The Complete Python Pro Bootcamp - Udemy
 
 ---
 ## :keyboard: Experience

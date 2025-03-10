@@ -2,7 +2,7 @@
 
 ### 🌱 Junior Programmer | Translator
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://https://www.linkedin.com/in/kenneth-romero-l%C3%B3pez-50670489/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kenneth-romero-l%C3%B3pez-50670489/) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square)](mailto:krl2@hotmail.com)
 
 ---
@@ -29,7 +29,7 @@
 - :white_check_mark: Python Programming Course - Tokio School
 - :white_check_mark: AI Specialization Course - Tokio School
 - :white_check_mark: Master's Degree in Audiovisual Translation - Universitat Autònoma de Barcelona
-- :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pomeu Fabra
+- :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra
 
 ---
 ## :keyboard: Experience
@@ -37,18 +37,12 @@
 
 ---
 
-## 📌 **Proyectos Destacados**
-🔹 **[Nombre del Proyecto](https://github.com/tuusuario/repositorio)**  
-📌 Descripción breve del proyecto.  
-🛠️ Tecnologías usadas: *Ejemplo: React, Node.js, MongoDB*  
+## 📌 **Projects**
+🔹 Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/proyecto_final.git)
+📌 A web app that allows users to save their films and series as favorites or watched 
+and generate metrics on the time spent watching content. 
+🛠️ Technologies used: Python, HTML, CSS, SQLite, SQLAlchemy  
 
-
-
----
-
-## 📫 **¡Conéctate conmigo!**
-📧 Email: [krl2@hotmail.com](mailto:krl2@hotmail.com)  
-🔗 LinkedIn: [linkedin.com/in/tuperfil](https://www.linkedin.com/in/tuperfil)  
 
 ---
 

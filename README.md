@@ -28,6 +28,7 @@
 ## 📚 Education 
 - :white_check_mark: Python Programming Course - Tokio School
 - :white_check_mark: AI Specialization Course - Tokio School
+- :white_check_mark: IT Support Certificate - Google
 - :white_check_mark: Master's Degree in Audiovisual Translation - Universitat Autònoma de Barcelona
 - :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra
 

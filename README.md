@@ -32,6 +32,12 @@
 - :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra
 
 ---
+
+## 📖 Currently learning
+- ✏️ AI Specialization (Tokio School)
+- ✏️ 100 Days Of Code: The Complete Python Pro Bootcamp (Udemy)
+
+---
 ## :keyboard: Experience
 - :floppy_disk: Internship at Nexeus Big Data
 

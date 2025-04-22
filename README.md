@@ -27,6 +27,7 @@
 ---
 ## 📚 Education 
 - :white_check_mark: Python Programming Course - Tokio School
+- :white_check_mark: AI Specialization Course - Tokio School 
 - :white_check_mark: IT Support Certificate - Google
 - :white_check_mark: Master's Degree in Audiovisual Translation - Universitat Autònoma de Barcelona
 - :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra
@@ -34,7 +35,6 @@
 ---
 
 ## 📖 Currently learning
-- ✏️ AI Specialization - Tokio School
 - ✏️ 100 Days Of Code: The Complete Python Pro Bootcamp - Udemy
 
 ---
@@ -44,11 +44,17 @@
 ---
 
 ## 📁 **Projects**
-- 🔹 Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/proyecto_final.git)
+🔹 Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/proyecto_final.git)
 
-- 💻 A web app that allows users to save their films and series as favorites or watched 
+  - 💻 A web app that allows users to save their films and series as favorites or watched 
 and generate metrics on the time spent watching content. 
-- 🛠️ Technologies used: Python, HTML, CSS, SQLite, SQLAlchemy  
+  - 🛠️ Technologies used: Python, HTML, CSS, SQLite, SQLAlchemy
+
+ 🔹 AI Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/fraud_detector_ML.git)
+  
+  - 💻: In this project several supervised learning Machine Learning models are used to determine whether a card transaction is a fraud or not.
+The models with the best performance were Random Forest and Decision Tree, with f1 metrics higher than 90%.
+  - 🛠️ Technologies used: Python, Scikit-learn
 
 
 ---

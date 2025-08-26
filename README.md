@@ -27,7 +27,10 @@
 ---
 ## 📚 Education 
 - :white_check_mark: Python Programming Course - Tokio School
-- :white_check_mark: AI Specialization Course - Tokio School 
+- :white_check_mark: AI Specialization Course - Tokio School
+- :white_check_mark: The Ultimate MySQL Bootcamp Course - Udemy
+- :white_check_mark: Natural Language Processing with Python Course - Udemy
+- :white_check_mark: Ultimate AWS Cloud Practitioner Course - Udemy
 - :white_check_mark: IT Support Certificate - Google
 - :white_check_mark: Master's Degree in Audiovisual Translation - Universitat Autònoma de Barcelona
 - :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra

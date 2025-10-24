@@ -8,41 +8,42 @@
 ---
 
 ## :point_up: **About me**
-- 💻 Discovering a new passion, programming
-- 📚 Languages & literature enthusiast
-- 🎯 Looking for opportunities to grow as a programmer
-- :joystick: Videogame lover
+- Discovering a new passion, programming 💻
+- Languages & literature enthusiast 📚
+- Looking for opportunities to grow as a programmer 🎯
+- Videogame lover :joystick:
 
 ---
 
 ## 🛠️ **Technologies & Tools**
-- 🔹 Languages: ![Python](https://img.shields.io/badge/Python_-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
-- 🔹 Frontend: ![HTML5](https://img.shields.io/badge/HTML5_-Beginner-green?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3_-Beginner-green?style=flat-square&logo=css3&logoColor=white)
-- 🔹 Database: ![SQLite](https://img.shields.io/badge/SQLite_-Beginner-green?style=flat-square&logo=sqlite&logoColor=white)
-- 🔹 Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+-  Languages: ![Python](https://img.shields.io/badge/Python_-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+-  Frontend: ![HTML5](https://img.shields.io/badge/HTML5_-Beginner-green?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3_-Beginner-green?style=flat-square&logo=css3&logoColor=white)
+-  Database: ![SQLite](https://img.shields.io/badge/SQLite_-Beginner-green?style=flat-square&logo=sqlite&logoColor=white)
+-  Tools: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- 🔹 AI: ![Pandas](https://img.shields.io/badge/Pandas_-Beginner-green?style=flat-square&logo=Pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-Beginner-green?style=flat-square&logo=scikit-learn&logoColor=white) 
+-  AI: ![Pandas](https://img.shields.io/badge/Pandas_-Beginner-green?style=flat-square&logo=Pandas&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-Beginner-green?style=flat-square&logo=scikit-learn&logoColor=white) 
 
 
 ---
 ## 📚 Education 
-- :white_check_mark: Python Programming Course - Tokio School
-- :white_check_mark: AI Specialization Course - Tokio School
-- :white_check_mark: The Ultimate MySQL Bootcamp Course - Udemy
-- :white_check_mark: Natural Language Processing with Python Course - Udemy
-- :white_check_mark: Ultimate AWS Cloud Practitioner Course - Udemy
-- :white_check_mark: IT Support Certificate - Google
-- :white_check_mark: Master's Degree in Audiovisual Translation - Universitat Autònoma de Barcelona
-- :white_check_mark: Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra
+-  Python Programming Course - Tokio School
+-  AI Specialization Course - Tokio School
+-  The Ultimate MySQL Bootcamp Course - Udemy
+-  Natural Language Processing with Python Course - Udemy
+-  Ultimate AWS Cloud Practitioner Course - Udemy
+-  IT Support Certificate - Google
+-  Master's Degree in Audiovisual Translation - Universitat Autònoma de Barcelona
+-  Translation and Interpreting (EN/FR > ES/CAT) - Universitat Pompeu Fabra
 
 ---
 
 ## 📖 Currently learning
-- ✏️ 100 Days Of Code: The Complete Python Pro Bootcamp - Udemy
+-  100 Days Of Code: The Complete Python Pro Bootcamp - Udemy (Almost done!) ✏️
+-  The Complete Full-Stack Development Bootcamp - Udemy ✏️
 
 ---
 ## :keyboard: Experience
-- :floppy_disk: Internship at Nexeus Big Data
+- Internship at Nexeus Big Data :floppy_disk:
 
 ---
 
@@ -55,7 +56,7 @@ and generate metrics on the time spent watching content.
 
  🔹 AI Final project (Tokio School) [↗️](https://github.com/KennethRomeroLopez/fraud_detector_ML.git)
   
-  - 💻: In this project several supervised learning Machine Learning models are used to determine whether a card transaction is a fraud or not.
+  - 💻 In this project several supervised learning Machine Learning models are used to determine whether a card transaction is a fraud or not.
 The models with the best performance were Random Forest and Decision Tree, with f1 metrics higher than 90%.
   - 🛠️ Technologies used: Python, Scikit-learn
 

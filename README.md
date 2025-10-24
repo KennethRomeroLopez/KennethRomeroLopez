@@ -26,8 +26,8 @@
 
 ---
 ## 📚 Education 
--  Python Programming Course - Tokio School
--  AI Specialization Course - Tokio School
+-  Python Programming Course - Tokio School (400h)
+-  AI Specialization Course - Tokio School (200h)
 -  The Ultimate MySQL Bootcamp Course - Udemy
 -  Natural Language Processing with Python Course - Udemy
 -  Ultimate AWS Cloud Practitioner Course - Udemy
@@ -38,8 +38,8 @@
 ---
 
 ## 📖 Currently learning
--  100 Days Of Code: The Complete Python Pro Bootcamp - Udemy (Almost done!) ✏️
--  The Complete Full-Stack Development Bootcamp - Udemy ✏️
+-  100 Days Of Code: The Complete Python Pro Bootcamp - Udemy (+100h) (Almost done!) ✏️
+-  The Complete Full-Stack Development Bootcamp (+100H) - Udemy ✏️
 
 ---
 ## :keyboard: Experience
